@@ -13,7 +13,7 @@
 * Node (coming)
 * Express (coming)
 
-* *Coming soon: Server-side functionality with Node and Express.
+<i>*Coming soon: Server-side functionality with Node and Express.</i>
 
 * Photos from PixaBay ([Link](https://pixabay.com/))
 
