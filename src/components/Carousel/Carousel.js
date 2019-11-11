@@ -16,7 +16,7 @@ const Carousel = () => {
 
                 <div className="carousel-inner d-flex">
                     <div className="carousel-item">
-                        <img src={img1} className="img-fluid" alt="Diamond Ring" />
+                        <img src={img1} className="img-fluid carousel-img" alt="Diamond Ring" />
                         <div className="container">
                             <div className="carousel-caption">
                                 <h1>Unwrap the Magic</h1>
@@ -25,7 +25,7 @@ const Carousel = () => {
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src={img2} className="img-fluid" alt="Engagement Ring" />
+                        <img src={img2} className="img-fluid carousel-img" alt="Engagement Ring" />
                         <div className="container">
                             <div className="carousel-caption text-left">
                                 <h1 className="font-weight-bold">The Perfect Proposal</h1>
@@ -35,7 +35,7 @@ const Carousel = () => {
                         </div>
                     </div>
                     <div className="carousel-item active">
-                        <img src={img3} className="img-fluid" alt="Emerald Ring" />
+                        <img src={img3} className="img-fluid carousel-img" alt="Emerald Ring" />
                         <div className="container">
                             <div className="carousel-caption text-right">
                                 <h1 className="font-weight-bold">Tom's Favorites</h1>
