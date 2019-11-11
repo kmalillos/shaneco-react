@@ -1,4 +1,5 @@
 import React from "react";
+import logo from "./imgs/ShaneCo.png";
 
 
 const NavTop = () => {
@@ -12,7 +13,7 @@ const NavTop = () => {
                         <i class="fas fa-question-circle icon"></i>
                     </div>
                     <div class="align-self-center icon">
-                        <img src=".\imgs\ShaneCo.png" alt="Shane Company Logo" />
+                        <img src={logo} alt="Shane Company Logo" />
                     </div>
                     <div class="align-self-center">
                         <i class="fas fa-search icon"></i>

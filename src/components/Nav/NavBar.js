@@ -3,7 +3,7 @@ import React from "react";
 const NavBar = () => {
     return (
         <>
-            <nav class="navbar d-flex justify-content-around">
+            <nav className="navbar d-flex justify-content-around">
                 <a href="#"> Engagement </a>
                 <a href="#"> Wedding </a>
                 <a href="#"> Diamonds and Gems </a>

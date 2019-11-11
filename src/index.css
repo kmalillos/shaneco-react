@@ -30,3 +30,7 @@ button, p, li {
 ul, li {
   list-style-type: none;
 }
+
+.section {
+  margin: 30px;
+}
