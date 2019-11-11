@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 // import './App.css';
-import NavTop from "./components/NavTop";
-import NavBar from "./components/NavBar";
-import Carousel from "./components/Carousel";
-import DesignYourRing from "./components/DesignYourRing";
-import PopularGifts from "./components/PopularGifts";
-import Footer from "./components/Footer";
+import NavTop from "./components/Nav/NavTop";
+import NavBar from "./components/Nav/NavBar";
+import Carousel from "./components/Carousel/Carousel";
+import DesignYourRing from "./components/DesignYourRing/DesignYourRing";
+import PopularGifts from "./components/PopularGifts/PopularGifts";
+import Footer from "./components/Footer/Footer";
 
 class App extends Component {
   render() {
