@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 // import './App.css';
-import NavTop from "./components/Nav/NavTop";
-import NavBar from "./components/Nav/NavBar";
+import Nav from "./components/Nav/Nav";
 import Carousel from "./components/Carousel/Carousel";
 import DesignYourRing from "./components/DesignYourRing/DesignYourRing";
 import PopularGifts from "./components/PopularGifts/PopularGifts";
@@ -11,8 +10,7 @@ class App extends Component {
   render() {
     return (
       <>
-      <NavTop />
-      <NavBar />
+      <Nav />
       <Carousel />
       <DesignYourRing />
       <PopularGifts />
